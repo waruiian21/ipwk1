@@ -19,8 +19,8 @@ Display prompt for creating a credential	Enter: cc	Enter the site name, your use
 Display a list of credentials	Enter: dc	Prints a list of saved credentials
 Display prompt for which credential to copy	Enter: copy	Enter the site name of the credential you wish to copy.
 Exit application	Enter: ex	Exit the current navigation stage
-SetUp / Installation Requirements
-Prerequisites
+
+### Prerequisites
 python3.6, pip, pyperclip,
 
 Running the Application
