@@ -1,5 +1,6 @@
 # ipwk1
-Author: Ian Warui
+
+ _Author: Ian Warui_
 
 ### Description
 Password Locker is a terminal run python application that allows users to store details i.e. usernames and passwords of their various accounts and also generate passwords for their new accounts.
