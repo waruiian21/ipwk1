@@ -21,7 +21,7 @@ Display prompt for which credential to copy	Enter: copy	Enter the site name of t
 Exit application	Enter: ex	Exit the current navigation stage
 
 ### Prerequisites
-python3.6, pip, pyperclip,
+- python3.6, pip, pyperclip,
 
 Running the Application
 To run the application, in your terminal:
