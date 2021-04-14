@@ -22,7 +22,8 @@ Exit application	Enter: ex	Exit the current navigation stage
 
 ### Prerequisites
 - python3.6, 
-- pip, pyperclip,
+- pip, 
+- pyperclip,
 
 Running the Application
 To run the application, in your terminal:
