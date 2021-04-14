@@ -25,7 +25,7 @@ Exit application	Enter: ex	Exit the current navigation stage
 - pip, 
 - pyperclip,
 
-Running the Application
+# Running the Application
 To run the application, in your terminal:
 
 $ chmod +x run.py $ ./run.p
