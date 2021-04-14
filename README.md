@@ -31,4 +31,4 @@ To run the application, in your terminal:
 $: ./run.p
 
 ### Technologies Used
-Python3.6
+- Python3.6
