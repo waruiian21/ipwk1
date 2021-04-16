@@ -28,6 +28,7 @@ Exit application	Enter: ex	Exit the current navigation stage
 
 # Running the Application
 To run the application, in your terminal:
+$ chmod +x run.py 
 
 $: ./run.p
 
